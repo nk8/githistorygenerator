@@ -1,6 +1,6 @@
 # Git History Generator
 
-![Git History Generator Logo](githistorygenerator.png)
+![Git History Generator Logo](images/githistorygenerator.png)
 
 Because commit quantity is the only true measure of a developer
 
@@ -14,11 +14,11 @@ This project is a playful reminder that those green squares don't always tell th
 
 Don't let a graph dictate your worth as a developer. But if you must, we've got you covered!
 
-![Git History Generator Illustration](githistorygenerator-graphic.png)
+![Git History Generator Illustration](images/githistorygenerator-graphic.png)
 
 ## How it works
 
-![Git History Generator Before and After](githistorygenerator-before-and-after.png)
+![Git History Generator Before and After](images/githistorygenerator-before-and-after.png)
 
 Git History Generator uses a shell script to generate fake Git commits and push them to your repository. It creates a "worklog.md" file and fills it with random entries, dating them back for the number of months you specify.
 
