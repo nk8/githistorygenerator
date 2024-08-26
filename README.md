@@ -1,6 +1,6 @@
 # Git History Generator
 
-![Git History Generator Logo](images/githistorygenerator.png)
+<img src="images/githistorygenerator.png" alt="Git History Generator Logo" width="50%" height="50%">
 
 Because commit quantity is the only true measure of a developer
 
@@ -14,11 +14,11 @@ This project is a playful reminder that those green squares don't always tell th
 
 Don't let a graph dictate your worth as a developer. But if you must, we've got you covered!
 
-![Git History Generator Illustration](images/githistorygenerator-graphic.png)
+<img src="images/githistorygenerator-graphic.png" alt="Git History Generator Illustration" width="50%" height="50%">
 
 ## How it works
 
-![Git History Generator Before and After](images/githistorygenerator-before-and-after.png)
+<img src="images/githistorygenerator-before-and-after.png" alt="Git History Generator Before and After" width="50%" height="50%">
 
 Git History Generator uses a shell script to generate fake Git commits and push them to your repository. It creates a "worklog.md" file and fills it with random entries, dating them back for the number of months you specify.
 
@@ -65,7 +65,7 @@ Remember, this is just for fun. We don't recommend using this for any serious pu
 
 Enjoy using Git History Generator? Consider buying me a coffee to fuel more fun projects!
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/narekk)
+<a href="https://www.buymeacoffee.com/narekk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Share this on X
 
