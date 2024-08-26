@@ -18,7 +18,7 @@ Don't let a graph dictate your worth as a developer. But if you must, we've got 
 
 ## How it works
 
-<img src="images/githistorygenerator-before-and-after.png" alt="Git History Generator Before and After" width="50%" height="50%">
+<img src="images/githistorygenerator-before-and-after.png" alt="Git History Generator Before and After" width="100%" height="100%">
 
 Git History Generator uses a shell script to generate fake Git commits and push them to your repository. It creates a "worklog.md" file and fills it with random entries, dating them back for the number of months you specify.
 
